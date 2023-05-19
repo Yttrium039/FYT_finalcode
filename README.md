@@ -1,6 +1,5 @@
-# FYT8_Instructing Macrophages with Peptide-Bound Hydrogel Particles
+# FYT_Instructing Macrophages with Peptide-Bound Hydrogel Particles
 
-This respo contains code and database for FYT8 (HKUST_CBE_2023)
+This respo contains code and database for Final Year Thesis under title "Instructing Macrophages with Peptide-Bound Hydrogel Particles" by Octavius Jessica Yap (Supervised by Prof. Ying Chau)
 
-Made by Octavius Jessica Yap
 
